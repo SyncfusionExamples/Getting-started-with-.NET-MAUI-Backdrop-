@@ -4,8 +4,7 @@
                          x:Class="BackdropGettingStarted.BackdropSamplePage"
                          Title="Menu"
                          xmlns:backdrop="clr-namespace:Syncfusion.Maui.Backdrop;assembly=Syncfusion.Maui.Backdrop"
-                         IsBackLayerRevealed="True"
-                         BackLayerRevealOption="Auto">
+                         IsBackLayerRevealed="True">
    
     <backdrop:SfBackdropPage.BackLayer>
         <backdrop:BackdropBackLayer>
