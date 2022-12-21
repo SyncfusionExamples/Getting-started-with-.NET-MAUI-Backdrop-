@@ -5,7 +5,7 @@ This repository contains sample to get started with the [Syncfusion .NET MAUI Ba
 ## Syncfusion controls
 
 This project used the following Syncfusion control(s):
-* [SfbackdropPage](https://www.syncfusion.com/maui-controls/maui-backdrop)
+* [SfBackdropPage](https://www.syncfusion.com/maui-controls/maui-backdrop)
 
 ## Supported platforms
 
